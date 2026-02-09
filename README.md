@@ -12,15 +12,6 @@
 
 <a href="https://lkxa.pro/ea9cbc" target="_blank" rel="noopener noreferrer">
   <img
-    src="https://img.shields.io/badge/⚽_СТАВКИ-ff007f?style=for-the-badge&labelColor=111827"
-    alt="Ставки на спорт онлайн — промокод YOU2"
-    width="520"
-    style="display:block; margin:16px auto;"
-  />
-</a>
-
-<a href="https://lkxa.pro/ea9cbc" target="_blank" rel="noopener noreferrer">
-  <img
     src="https://img.shields.io/badge/🎁_БОНУС_500%25-ff007f?style=for-the-badge&labelColor=111827"
     alt="Получить бонус 500% — промокод YOU2"
     width="520"
