@@ -133,7 +133,7 @@
 
 <a href="https://lkxa.pro/ea9cbc" target="_blank" rel="noopener noreferrer">
   <img
-    src="https://img.shields.io/badge/✅_РЕГ-ff007f?style=for-the-badge&labelColor=111827"
+    src="https://img.shields.io/badge/✅_РЕГИСТРАЦИЯ_БОНУС_500$25-ff007f?style=for-the-badge&labelColor=111827"
     alt="Регистрация и бонус — промокод YOU2"
     width="520"
     style="display:block; margin:22px auto;"
